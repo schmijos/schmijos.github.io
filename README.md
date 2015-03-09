@@ -9,7 +9,7 @@ There's a base palette containing RGB colors. These are used for vector addition
 The decoding is simply adding all diff colors in modulo 256.
 
 ## Example
-See the encoding of a still frame here: http://schmijos.github.io/
+See the encoding of a small video here: http://schmijos.github.io/
 The codec isn't very good for stills yet.
 
 Coming soon: a video of u-d-p eating meat paste!
